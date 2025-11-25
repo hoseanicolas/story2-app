@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="sign_up_here">Daftar Di Sini</string>
+    <string name="sign_in_here">Masuk Di Sini</string>
+
+    <string name="stories">Cerita</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="maps">Peta</string>
+    <string name="detail_story">Detail Cerita</string>
+
+    <string name="description">Deskripsi</string>
+    <string name="add_current_location">Tambahkan lokasi saat ini</string>
+    <string name="upload">Unggah</string>
+    <string name="choose_photo">Pilih Foto</string>
+    <string name="from_gallery">Dari Galeri</string>
+    <string name="from_camera">Dari Kamera</string>
+
+    <string name="error_empty_email">Email tidak boleh kosong</string>
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_empty_password">Kata sandi tidak boleh kosong</string>
+    <string name="error_password_too_short">Kata sandi minimal 8 karakter</string>
+    <string name="error_empty_name">Nama tidak boleh kosong</string>
+    <string name="error_empty_description">Deskripsi tidak boleh kosong</string>
+
+    <string name="loading">Memuat…</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="register_success">Pendaftaran berhasil</string>
+    <string name="upload_success">Cerita berhasil diunggah</string>
+    <string name="logout_confirm">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="error_login_failed">Login gagal</string>
+    <string name="error_register_failed">Pendaftaran gagal</string>
+    <string name="error_upload_failed">Unggah gagal</string>
+    <string name="error_fetch_stories">Gagal memuat cerita</string>
+    <string name="error_network">Terjadi kesalahan jaringan</string>
+
+    <string name="no_stories">Tidak ada cerita tersedia</string>
+    <string name="retry">Coba Lagi</string>
+
+    <string name="camera_permission_required">Izin kamera diperlukan</string>
+    <string name="storage_permission_required">Izin penyimpanan diperlukan</string>
+    <string name="permission_denied">Izin ditolak</string>
+
+    <string name="image_too_large">Ukuran gambar harus kurang dari 1MB</string>
+</resources>
